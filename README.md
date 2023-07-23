@@ -20,11 +20,11 @@ Here are some ideas to get you started:
 <h2 fontSize="14"  align="center">О себе</h2>
 <div>Я фронетенд-разработчик. Изучаю веб-разработку около года. Люблю создавать интуитивно понятные интерфейсы. Люблю изучать для того, чтобы применять это в будущем для своей работы</div>
 <h3 fontSize="14"  align="center">Мой стек</h2>
-<ul>
-  <li>HTML</li>
-  <li>CSS, SCSS, Tailwind, Bootstrap</li>
-  <li>Javascript, Typescript</li>
-  <li>React</li>
+<ul   align="center">
+  <li   align="center">HTML</li>
+  <li   align="center">CSS, SCSS, Tailwind, Bootstrap</li>
+  <li   align="center">Javascript, Typescript</li>
+  <li  align="center">React</li>
 </ul>
 <h4 fontSize="14"  align="center">Проект над которым сейчас работаю</h4>
 <div>В данный момент разрабатываю сайт для просмотра спортивных результатов: https://chesterbets.com/. Для него верстал страницы и подключал API flashScore для парсинга статистики матчей и результатов, в данный момент веду разработку бэкенда для него.</div>
